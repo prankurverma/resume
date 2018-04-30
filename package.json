@@ -1,0 +1,32 @@
+{
+  "name": "resume",
+  "version": "1.0.1",
+  "description": "Electronics-Engineer",
+  "scripts": {
+    "build:js": "buble src/resume.js | uglifyjs > resume.min.js",
+    "build:css": "cssmin src/resume.css > resume.min.css",
+    "build": "npm run build:js && npm run build:css",
+    "test": "standard src/resume.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resume"
+  },
+  "author": "Shefali Pandey <shefalipandey2050@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resume/issues"
+  },
+  "homepage": "https://github.com/resume",
+  "devDependencies": {
+    "buble": "^0.14.0",
+    "cssmin": "^0.4.3",
+    "standard": "^8.6.0",
+    "uglify-js": "^2.7.3"
+  },
+  "standard": {
+    "global": [
+      "angular"
+    ]
+  }
+}
