@@ -1,2 +1,2 @@
 # resume
-My Resume Hosted at: [Resume}(prankurverma.github.io/resume/)
+My Resume Hosted at: [Resume](http://prankurverma.github.io/resume/)
