@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0441015d-b844-41bf-90a0-d9ed2f7c9321" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="84" column="35" selection-start-line="84" selection-start-column="35" selection-end-line="84" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="67" column="179" selection-start-line="67" selection-start-column="179" selection-end-line="67" selection-end-column="179" />
             </state>
           </provider>
         </entry>
@@ -51,7 +52,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="226" />
     <option name="y" value="-25" />
     <option name="width" value="1047" />
@@ -62,6 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,7 +75,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,7 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1529757086949</updated>
       <workItem from="1529757088894" duration="14702000" />
-      <workItem from="1529934057722" duration="1002000" />
+      <workItem from="1529934057722" duration="1650000" />
+      <workItem from="1529946776464" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="details added">
       <created>1529781149399</created>
@@ -144,11 +146,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529934121204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="details added">
+      <created>1529935786557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529935786557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15704000" />
+    <option name="totallyTimeSpent" value="16385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -184,6 +193,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="details added" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -253,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="84" column="35" selection-start-line="84" selection-start-column="35" selection-end-line="84" selection-end-column="35" />
+        <state relative-caret-position="170">
+          <caret line="67" column="179" selection-start-line="67" selection-start-column="179" selection-end-line="67" selection-end-column="179" />
         </state>
       </provider>
     </entry>
