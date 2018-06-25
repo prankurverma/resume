@@ -7,7 +7,7 @@ after_success:
 
 deploy:
   provider: npm
-  email: "shefalipandey2050@gmail.com"
+  email: "vermakushal.28@gmail.com"
   api_key: $NPM_TOKEN
   skip_cleanup: true
   on:
