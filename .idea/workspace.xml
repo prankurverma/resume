@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="86" column="227" selection-start-line="86" selection-start-column="227" selection-end-line="86" selection-end-column="227" />
+            <state relative-caret-position="166">
+              <caret line="71" column="92" lean-forward="true" selection-start-line="71" selection-start-column="92" selection-end-line="71" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -119,7 +119,8 @@
       <workItem from="1529946776464" duration="2510000" />
       <workItem from="1530022966448" duration="238000" />
       <workItem from="1530442534687" duration="50000" />
-      <workItem from="1530442621260" duration="270000" />
+      <workItem from="1530442621260" duration="338000" />
+      <workItem from="1530443042197" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="details added">
       <created>1529781149399</created>
@@ -198,11 +199,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530023128010</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="details added">
+      <created>1530442913870</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1530442913871</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19420000" />
+    <option name="totallyTimeSpent" value="19622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -238,6 +246,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="details added" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="227" selection-start-line="86" selection-start-column="227" selection-end-line="86" selection-end-column="227" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
@@ -335,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="86" column="227" selection-start-line="86" selection-start-column="227" selection-end-line="86" selection-end-column="227" />
+        <state relative-caret-position="166">
+          <caret line="71" column="92" lean-forward="true" selection-start-line="71" selection-start-column="92" selection-end-line="71" selection-end-column="92" />
         </state>
       </provider>
     </entry>
